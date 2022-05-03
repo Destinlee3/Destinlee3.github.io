@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# 딥러닝 프로젝트
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 특정 축구 팀, 선수의 과거 기록 및 미래 예측
+title: Arsenal FC 팀, 개인 성적 데이터 분석
 email: q64306940@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 최근 20년간 팀 성적 분석 및 최근 3~5년간의 개인 성적 분석을 통해 올해 및 내년 시즌 성적 예측
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DestiN_HS
