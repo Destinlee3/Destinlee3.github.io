@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  1.개요
+title:  개요
 date:   2022-05-03 18:17:42 +0900
 categories: jekyll update
 ---
