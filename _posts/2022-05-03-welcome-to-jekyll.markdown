@@ -1,29 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  1.개요
 date:   2022-05-03 18:17:42 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+평소 여러 스포츠를 사랑하고 즐겨 본다. 그 중에서도 해외축구에 관심이 많고 프리미어리그 또한 즐겨본다.
+매년 시즌이 시작할때마다 슈퍼컴퓨터가 그 해의 성적을 예측하고 수많은 배팅업체들이 서로 다른 기준들을 바탕으로 배당을 매긴다.
+과연 그렇게 만들어진 배당들이 믿을만 한 자료인 지 알아보고, 좀 더 정확한 데이터를 만들어내려면 어떻게 해야할 지 고민해볼 것이다.
+나는 92년도부터 30년동안 축적된 데이터를 바탕으로 내년 시즌의 향방에 대해서 예측해보는 시간을 가져보려고 한다.
