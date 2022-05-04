@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arsenal FC 팀, 개인 성적 데이터 분석
+title: 프리미어리그 출범 이후 리그 성적 데이터 분석
 email: q64306940@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- 최근 20년간 팀 성적 분석 및 최근 3~5년간의 개인 성적 분석을 통해 올해 및 내년 시즌 성적 예측
+ 92년 프리미어리그 출범 이후 리그 순위를 분석해보고 내년시즌 리그 성적 순위를 예측해본다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DestiN_HS
