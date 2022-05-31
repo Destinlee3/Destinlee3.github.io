@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 축구에서의 골득실과 승점간 상관관계 분석
+title: 축구에서의 골득실과 승점 간 상관관계 분석
 email: q64306940@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  2022학년도 1학기 딥러닝 프로젝트
