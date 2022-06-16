@@ -43,6 +43,10 @@ category: jekyll
 
 피타고리안 승률을 어느 한 외국 포럼에서 축구에서 지수를 1.2로 사용하는 점을 착안하여 1.2로 계산하였다. 
 
+<img width="953" alt="3-1" src="https://user-images.githubusercontent.com/104814757/174193625-f74e1d2c-f2d3-45a4-a5f4-80df8e3068cf.png">
+
+<img width="799" alt="3-2" src="https://user-images.githubusercontent.com/104814757/174193596-c0e1f462-1fdb-45e0-916f-5b4109db20b1.png">
+
 
 4.Methodology
 
@@ -63,13 +67,23 @@ category: jekyll
 
 <골득실-승률> 절편:0.380, 기울기:0.005, 평균 제곱 오차:0.003
 
+<img width="741" alt="5-1" src="https://user-images.githubusercontent.com/104814757/174193640-b9690303-ddb1-4622-ad70-ce2afffcf73f.png">
+
+<img width="519" alt="5-2" src="https://user-images.githubusercontent.com/104814757/174193667-241c9ade-5ca5-4c76-9ba9-69aed50003ca.png">
+
 2) 골득실과 피타고리안 승률 간의 상관관계
 
 <골득실-피타고리안 승률> 절편:0.495, 기울기:0.005, 평균 제곱 오차
 
+<img width="832" alt="5-3" src="https://user-images.githubusercontent.com/104814757/174193675-786afc48-310f-4fb6-ad2d-9e5ca072686b.png">
+
 3) 실제 승점과 피타고리안 승점 간의 상관관계
 
 <승점-피타고리안 승점> 절편:6.818, 기울기:0.954, 평균제곱오차:19.365 
+
+<img width="787" alt="5-6" src="https://user-images.githubusercontent.com/104814757/174193738-c1f2fa94-4188-492b-883b-11ed6c0751ea.png">
+
+<img width="521" alt="5-5" src="https://user-images.githubusercontent.com/104814757/174193847-98c4f086-519b-45d4-b513-87b1f14d23d1.png">
 
 
 6.Conclusion
