@@ -34,6 +34,7 @@ category: jekyll
 
 아래 순위표는 2011/12 순위표이다. 기존 빌 제임스의 공식은 상위권팀의 성적을 고평가하고 하위권팀의 성적을 저평가 하고 있다는 점을 알 수 있다.
 
+<img width="530" alt="2" src="https://user-images.githubusercontent.com/104814757/174195025-95977b8a-050d-471c-b51b-64cf5dc7fa85.png">
 
 3.Dataset
 
